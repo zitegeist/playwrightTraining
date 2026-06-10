@@ -1,0 +1,17 @@
+{
+  "name": "playwright-training",
+  "version": "1.0.0",
+  "description": "QA Automation training programme - team Playwright repo",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report"
+  },
+  "author": "James O'Neill",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.2"
+  }
+}
