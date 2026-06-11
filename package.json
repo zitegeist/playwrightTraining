@@ -8,7 +8,6 @@
     "test:ui": "playwright test --ui",
     "report": "playwright show-report"
   },
-  "author": "James O'Neill",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.60.0",

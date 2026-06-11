@@ -15,7 +15,7 @@ You did all of this in the pre-work. If a check fails, ask in the team channel.
 Open the VS Code terminal (Ctrl + `) and run these commands one at a time:
 
 ```
-git clone <REPO-URL-GOES-HERE>
+git clone 
 cd playwrightTraining
 npm install
 npx playwright install chromium
